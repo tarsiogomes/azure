@@ -1,0 +1,2 @@
+# login azure
+az login --tenant 69bd99c6-7ca9-403b-830d-95575287d9b4 --skip-subscription-discovery
